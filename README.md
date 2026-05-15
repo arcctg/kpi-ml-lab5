@@ -41,8 +41,8 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/arcctg/kpi-ml-lab5.git
-   cd kpi-ml-lab5
+   git clone https://github.com/arcctg/neural-image-classifiers.git
+   cd neural-image-classifiers
    ```
 
 2. **Create a virtual environment (optional but recommended):**
